@@ -1,3 +1,3 @@
 # Ecoleta
 
-A web application using NodeJS and ReactJS.
+A web application using NodeJS and ReactJS and TypeScript.
